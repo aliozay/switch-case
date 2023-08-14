@@ -1,0 +1,15 @@
+/Users/aliozay/Documents/Pratikler/switch-case/bin/Debug/net7.0/switch-case
+/Users/aliozay/Documents/Pratikler/switch-case/bin/Debug/net7.0/switch-case.deps.json
+/Users/aliozay/Documents/Pratikler/switch-case/bin/Debug/net7.0/switch-case.runtimeconfig.json
+/Users/aliozay/Documents/Pratikler/switch-case/bin/Debug/net7.0/switch-case.dll
+/Users/aliozay/Documents/Pratikler/switch-case/bin/Debug/net7.0/switch-case.pdb
+/Users/aliozay/Documents/Pratikler/switch-case/obj/Debug/net7.0/switch-case.csproj.AssemblyReference.cache
+/Users/aliozay/Documents/Pratikler/switch-case/obj/Debug/net7.0/switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliozay/Documents/Pratikler/switch-case/obj/Debug/net7.0/switch-case.AssemblyInfoInputs.cache
+/Users/aliozay/Documents/Pratikler/switch-case/obj/Debug/net7.0/switch-case.AssemblyInfo.cs
+/Users/aliozay/Documents/Pratikler/switch-case/obj/Debug/net7.0/switch-case.csproj.CoreCompileInputs.cache
+/Users/aliozay/Documents/Pratikler/switch-case/obj/Debug/net7.0/switch-case.dll
+/Users/aliozay/Documents/Pratikler/switch-case/obj/Debug/net7.0/refint/switch-case.dll
+/Users/aliozay/Documents/Pratikler/switch-case/obj/Debug/net7.0/switch-case.pdb
+/Users/aliozay/Documents/Pratikler/switch-case/obj/Debug/net7.0/switch-case.genruntimeconfig.cache
+/Users/aliozay/Documents/Pratikler/switch-case/obj/Debug/net7.0/ref/switch-case.dll
